@@ -1,4 +1,4 @@
-public class Ejercicio3-modificarUnArray {
+public class Ejercicio3modificarUnArray {
     public static void modificarArray(int[] arr) {
         // Modificar algunos elementos del array
         for (int i = 0; i < arr.length; i++) {

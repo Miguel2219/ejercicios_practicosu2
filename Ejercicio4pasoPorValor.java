@@ -1,4 +1,4 @@
-public class Ejercicio4-pasoPorValor {
+public class Ejercicio4pasoPorValor {
     public static int incrementar(int x) {
         x = x + 1; 
         return x; 

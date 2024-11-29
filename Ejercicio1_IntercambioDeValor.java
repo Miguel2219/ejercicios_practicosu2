@@ -1,4 +1,4 @@
-public class Ejercicio1-intercambio de valor {
+public class Ejercicio1_IntercambioDeValor {
     public static void intercambiar(int x, int y) {
         int temp = x;
         x = y;

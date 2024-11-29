@@ -1,4 +1,4 @@
-public class Ejercicio5-pasarCadenaPorValor {
+public class Ejercicio5_pasarCadenaPorValor{
     public static void modificarCadena(String texto) {
         texto = texto + " - Modificado"; 
         System.out.println("Dentro del método: " + texto);
